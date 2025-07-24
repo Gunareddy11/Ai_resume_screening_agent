@@ -1,0 +1,6 @@
+{
+  "Data Scientist": ["python", "machine learning", "data analysis", "pandas", "numpy"],
+  "Frontend Developer": ["html", "css", "javascript", "react", "frontend"],
+  "Backend Developer": ["python", "django", "flask", "api", "sql"],
+  "Data Analyst": ["python","sql","Powerbi","numpy","pandas","statics"]
+}
